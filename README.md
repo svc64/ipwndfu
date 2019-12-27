@@ -14,6 +14,9 @@
 
 * **IMPORTANT:** Other devices are currently **NOT SUPPORTED**.
 
+* Supports s5l8747x (Heywire)
+* Contains [dump of SecureROM](SecureROM-s5l8747xsi-1413.8-RELEASE.dump) for s5l8747x
+
 ## checkm8
 
 * permanent unpatchable bootrom exploit for hundreds of millions of iOS devices
