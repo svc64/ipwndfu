@@ -22,6 +22,7 @@ configs = [
   ExecConfig(('SecureROM for s8000si, Copyright 2007-2014, Apple Inc.', 'RELEASE',     'iBoot-2234.0.0.3.3'),    aes_crypto_cmd=0x10000DAA0),
   ExecConfig(('SecureROM for s8003si, Copyright 2007-2014, Apple Inc.', 'RELEASE',     'iBoot-2234.0.0.2.22'),   aes_crypto_cmd=0x10000DAA0),
   ExecConfig(('SecureROM for t7000si, Copyright 2013, Apple Inc.',      'RELEASE',     'iBoot-1992.0.0.1.19'),   aes_crypto_cmd=0x10000DA90),
+  ExecConfig(('SecureROM for t8012si, Copyright 2007-2016, Apple Inc.', 'ROMRELEASE',  'iBoot-3401.0.0.1.16'),   aes_crypto_cmd=0x1000082AC),
 ]
 
 EXEC_MAGIC = 'execexec'[::-1]
